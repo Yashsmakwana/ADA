@@ -103,6 +103,7 @@ java -cp out SieveOfEratosthenes         # then enter n at the prompt
 - [ ] 📚 Write a blog post for each optimisation with graphs  
 </details>
 ---
+
 ### Feel free to pick any item, open an issue, or send a PR!
 ### 🤝 Contributing
 #### Fork 📌, then create a feature branch 🪄.
