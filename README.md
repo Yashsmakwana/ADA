@@ -81,8 +81,7 @@ java -cp out SieveOfEratosthenes         # then enter n at the prompt
 - [ ] Fibonacci (memo vs. bottom-up)  
 - [ ] Longest Increasing Subsequence (O(n log n))  
 - [ ] Knapsack 0/1
-
-*(tick items as you add them)*  
+  
 </details>
 
 <details>
