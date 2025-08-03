@@ -104,13 +104,13 @@ java -cp out SieveOfEratosthenes         # then enter n at the prompt
 </details>
 
 ---
+
 ### Feel free to pick any item, open an issue, or send a PR!
 ### 🤝 Contributing
 #### Fork 📌, then create a feature branch 🪄.
 #### Follow the project’s code style ( google-java-format recommended ).
 Add or update docstrings / README snippets where relevant.
 
----
 ### All skill levels welcome — this repo exists for learning & fun. 🎈
 ### ⚖️ License
 This project is licensed under the MIT License — see LICENSE for details.
