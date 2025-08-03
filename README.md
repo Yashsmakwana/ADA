@@ -30,12 +30,12 @@ java -cp out SieveOfEratosthenes         # then enter n at the prompt
 #### (If you place sources under src/, adjust the compile/run commands accordingly, e.g. javac -d out src/*.java)
 
 ### 🗺️ Roadmap / TODO
- ⃣  Switch to BitSet to cut memory by ~32 ×
- ⃣  Implement a segmented sieve for n > 1 000 000 000
- ⃣  Add an Euler / linear sieve variant
- ⃣  Write unit tests using JUnit 5
- ⃣  Provide JMH micro-benchmarks
- ⃣  Add more algorithms (GCD variants, BFS/DFS, Dijkstra, …)
+- [ ] Switch to BitSet to cut memory by ~32 ×
+- [ ] Implement a segmented sieve for n > 1 000 000 000
+- [ ] Add an Euler / linear sieve variant
+- [ ] Write unit tests using JUnit 5
+- [ ] Provide JMH micro-benchmarks
+- [ ] Add more algorithms (GCD variants, BFS/DFS, Dijkstra, …)
 
 ### Feel free to pick any item, open an issue, or send a PR!
 ### 🤝 Contributing
