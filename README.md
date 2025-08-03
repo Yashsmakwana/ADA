@@ -105,7 +105,7 @@ java -cp out SieveOfEratosthenes         # then enter n at the prompt
 
 ---
 
-### Feel free to pick any item, open an issue, or send a PR!
+#### Feel free to pick any item, open an issue, or send a PR!
 ### 🤝 Contributing
 #### Fork 📌, then create a feature branch 🪄.
 #### Follow the project’s code style ( google-java-format recommended ).
