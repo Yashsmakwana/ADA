@@ -43,6 +43,7 @@ public class Knapsack {
                 Countcapacity =0;
             }
         }
+        sc.close();
         System.out.println("\nThe Max profit "+Countprofit);
         for(int i = 0; i<n; i++){
             System.out.println("Index of Item: "+(i+1));
@@ -52,3 +53,4 @@ public class Knapsack {
         }
     }
 }
+
