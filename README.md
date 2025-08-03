@@ -35,7 +35,7 @@ javac -d out SieveOfEratosthenes.java
 java -cp out SieveOfEratosthenes         # then enter n at the prompt
 ```
 #### (If you place sources under src/, adjust the compile/run commands accordingly, e.g. javac -d out src/*.java)
-
+---
 ## 🗺️ Roadmap / TODO
 
 <details>
@@ -102,18 +102,13 @@ java -cp out SieveOfEratosthenes         # then enter n at the prompt
 - [ ] 📦 Publish a tiny **Maven Central** library (`algo-playground-core`)  
 - [ ] 📚 Write a blog post for each optimisation with graphs  
 </details>
-
+---
 ### Feel free to pick any item, open an issue, or send a PR!
 ### 🤝 Contributing
 #### Fork 📌, then create a feature branch 🪄.
 #### Follow the project’s code style ( google-java-format recommended ).
-#### PRs must compile cleanly with
-```bash
-
-    javac -Xlint:all -Werror …
-```
 Add or update docstrings / README snippets where relevant.
-
+---
 ### All skill levels welcome — this repo exists for learning & fun. 🎈
 ### ⚖️ License
 This project is licensed under the MIT License — see LICENSE for details.
@@ -121,3 +116,4 @@ This project is licensed under the MIT License — see LICENSE for details.
 #### “Sieve of Eratosthenes” — a 2nd-century BC idea that still rocks.
 #### OpenJDK & the HotSpot JIT compiler.
 Everyone who submits improvements, benchmarks, or typo fixes — thank you! 🎉
+---
