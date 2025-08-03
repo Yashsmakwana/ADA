@@ -1,16 +1,16 @@
 # 📚 Algorithm-Playground-Java
 > A growing collection of bite-sized Java programs that implement, benchmark and micro-optimise classic algorithms — starting with the **Sieve of Eratosthenes**.
 
-![Language](https://img.shields.io/badge/Java-17%2B-blue?logo=openjdk)
-![Build](https://img.shields.io/badge/Build-CLI%20%7C%20Maven%20%7C%20Gradle-informational.svg?logo=apache-maven)
+![Java](https://img.shields.io/badge/Java-17%2B-blue?logo=java)
+![Top language](https://img.shields.io/github/languages/top/Yashsmakwana/ADA)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Yashsmakwana/ADA)
-![Repo size](https://img.shields.io/github/repo-size/Yashsmakwana/ADA)
 ![Last commit](https://img.shields.io/github/last-commit/Yashsmakwana/ADA)
+![Open issues](https://img.shields.io/github/issues/Yashsmakwana/ADA)
+![PRs open](https://img.shields.io/github/issues-pr/Yashsmakwana/ADA)
 ![Contributors](https://img.shields.io/github/contributors/Yashsmakwana/ADA)
-![Issues](https://img.shields.io/github/issues/Yashsmakwana/ADA)
+![Repo size](https://img.shields.io/github/repo-size/Yashsmakwana/ADA)
 ![Stars](https://img.shields.io/github/stars/Yashsmakwana/ADA?style=social)
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
-![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![License](https://img.shields.io/github/license/Yashsmakwana/ADA)
 
 ---
 
