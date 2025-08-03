@@ -10,16 +10,16 @@
 ## 🚀 Quick start
 
 
-# Clone the repo
+Clone the repo
 ```bash
 git clone https://github.com/Yashsmakwana/ADA.git
 cd ADA
 ```
-# Compile
+Compile
 ```bash
 javac -d out SieveOfEratosthenes.java
 ```
-# Run (interactive)
+Run (interactive)
 ```bash
 java -cp out SieveOfEratosthenes                # then enter n at the prompt
 ```
